@@ -1,2 +1,2 @@
 # rpe-calcium-imaging
-This code is intended to streamline the process of acquiring and analyzing calcium imaging data gathered during experiments with retinal pigment epithelium
+A repository that contains code to streamline the acquisition of calcium imaging data for retinal pigment epithlium at the National Eye Instute. 
