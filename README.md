@@ -1,4 +1,6 @@
 # rpe-calcium-imaging
+A fundamental bug was discovered in Matlab p-code that made it impractical to continue project pending further updates from Matlab.
+
 A repository that contains code to streamline the acquisition of calcium imaging data for retinal pigment epithlium at the National Eye Instute. 
 
 REQUIRES:
